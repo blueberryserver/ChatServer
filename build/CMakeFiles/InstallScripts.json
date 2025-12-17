@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/kimjeamoon/SimpleChatServer/build/cmake_install.cmake",
+		"/Users/kimjeamoon/SimpleChatServer/build/external/config/cmake_install.cmake",
+		"/Users/kimjeamoon/SimpleChatServer/build/external/cache/cmake_install.cmake",
+		"/Users/kimjeamoon/SimpleChatServer/build/src/db/cmake_install.cmake",
+		"/Users/kimjeamoon/SimpleChatServer/build/src/chat/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

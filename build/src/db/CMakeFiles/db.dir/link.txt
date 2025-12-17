@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdb.a CMakeFiles/db.dir/AccountDb.cpp.o CMakeFiles/db.dir/ShardDb.cpp.o CMakeFiles/db.dir/DbRouter.cpp.o CMakeFiles/db.dir/DbFacade.cpp.o
+/usr/bin/ranlib libdb.a

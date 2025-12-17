@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcache.a CMakeFiles/cache.dir/src/RedisClient.cpp.o
+/usr/bin/ranlib libcache.a

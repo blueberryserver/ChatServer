@@ -1,0 +1,11 @@
+
+// brew install boost
+// brew install postgresql
+// soci_core soci_postgresql
+// brew install spdlog
+brew install yaml-cpp
+brew install nlohmann-json
+
+brew install hiredis pkg-config
+brew install vcpkg
+vcpkg install redis-plus-plus

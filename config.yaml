@@ -1,0 +1,15 @@
+database:
+  host: localhost
+  port: 5432
+  user: root
+  password: password
+  dbname: account_db
+
+server:
+  host: 127.0.0.1
+  port: 12345
+
+redis:
+  url: tcp://127.0.0.1:6379
+  pool_size: 5
+
