@@ -1,9 +1,9 @@
-build
-redis-plus-plus
+/build
+/redis-plus-plus
 .vscode
-docker
-logs
-soci
+/docker
+/logs
+/soci
 
 
 
